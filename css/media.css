@@ -1,0 +1,106 @@
+
+
+/*Extra small device*/
+@media (max-width:767px) {
+
+.brand, .nav, .tools {
+    background-color: #D1E2FD;
+    min-height: 50px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.hero_call_to_action {
+    background-color: #D1E2FD;
+    min-height: 100px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+    
+.hero_content {
+    background-color: #A1C3F8;
+    min-height: 140px;
+    margin-bottom: 10px;
+}
+
+.article_feature, .article_listing {
+
+    background-color: #D1E2FD;
+    min-height: 150px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+}
+
+.add {
+    background-color: #70A8DD;
+    min-height: 100px;
+}
+    
+.main_content {
+    background-color: #A1C3F8;
+    min-height: 460px;
+    margin-bottom: 10px;
+}    
+    
+    
+    
+}
+
+/*small device*/
+@media (min-width:768px) and (max-width:991px) {
+
+  .hero_content {
+    background-color: #A1C3F8;
+    min-height: 100px;
+    margin-bottom: 10px;
+}  
+.hero_feature, .hero_call_to_action {
+    background-color: #D1E2FD;
+    min-height: 80px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+    
+.add{
+    background-color: #70A8DD;
+    min-height: 180px;
+    margin-top: 35px;
+}
+    
+.article_feature,.article_listing {
+    background-color: #D1E2FD;
+    min-height: 180px;
+    margin-top: 35px;
+    margin-bottom: 15px;
+}   
+    
+.disable_padding_right {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.sidebar {
+    background-color: #A1C3F8;
+    min-height: 370px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 1px;
+}
+.sidebar_content {
+
+    background-color: #D1E2FD;
+    min-height: 300px;
+    margin-top: 35px;
+    margin-bottom: 15px;
+
+}
+    
+}
+/*medium device*/
+@media (min-width:992px) and (max-width:1199px) { 
+}
+
+
+/*Large device*/
+@media (min-width: 1200px) {
+}
